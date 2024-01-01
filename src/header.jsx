@@ -13,7 +13,7 @@ const Header = () => {
     return (
         <Navbar bg="light" expand="lg">
             <Navbar.Brand href="#" className="ms-3">
-                <FaReact className="me-2" />戴森球计划量化计算器|
+                <FaReact className="me-2" />戴森球计划量化计算器 （测试PR）|
                 <Navbar.Text className="text-muted">
                     v{version}
                 </Navbar.Text>
